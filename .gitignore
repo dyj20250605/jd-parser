@@ -1,0 +1,13 @@
+# Python 自动生成的缓存
+__pycache__/
+
+# 虚拟环境
+.venv/
+
+# PyCharm 配置
+.idea/
+
+# 程序运行生成的结果
+output.json
+
+# 存放 API key 的文件（明后天会用到）
